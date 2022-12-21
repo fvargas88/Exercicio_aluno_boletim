@@ -1,0 +1,2 @@
+module boletim_aluno {
+}
